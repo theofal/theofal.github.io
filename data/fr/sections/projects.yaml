@@ -13,7 +13,7 @@ buttons:
   - name: All
     filter: "all"
   - name: Academic
-    filter: "academic"
+    filter: "Academic"
   - name: Hobby
     filter: "Hobby"
   - name: Java
@@ -33,10 +33,10 @@ projects:
     role: Developer
     repo: https://github.com/theofal/Corewar
     summary: Une implémentation du jeu "Corewar" en java.
-    tags: ["Java","academic"]
+    tags: ["Java","Academic"]
 
   - name: Projet TAL
     role: Developer
     repo: https://github.com/theofal/ProjetTAL
     summary: Logiciel de détection automatique de la langue d'un texte via l'analyse d'occurences des lettres.
-    tags: ["Python","academic"]
+    tags: ["Python","Academic", "GoogleAPI"]

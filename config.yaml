@@ -6,7 +6,7 @@ defaultContentLanguage: "fr"
 disableLanguages: "en"
 languages:
   fr:
-    title: "Mon blog"
+    title: "Mon site"
     languageName: "Fr"
     weight: 1
     params:
@@ -14,7 +14,7 @@ languages:
       navigation:
         help: "Aide"
   en:
-    title: "My blog"
+    title: "My site"
     languageName: "En"
     weight: 2
     params:
@@ -37,4 +37,5 @@ params:
   # specify whether you want to show Table of Contents in reading page
   enableTOC: "true"
   newsletter:
-    enable: "false"
+    footer:
+      enable: "false"

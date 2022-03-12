@@ -6,7 +6,6 @@ image: "images/avatar/man-avatar1.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "theo@example.com"
-  phone: "+0123456789"
 
 # some summary about what you do
 summary:

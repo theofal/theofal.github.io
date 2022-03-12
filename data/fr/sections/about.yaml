@@ -17,7 +17,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Après une experience dans le domaine de l'assurance, je suis en pleine reconversion professionnelle dans le domaine de l'informatique avec un attrait pour le developement backend."
+summary: "Après une expérience dans le domaine de l’assurance, je suis en pleine reconversion professionnelle dans le domaine de l’informatique avec un attrait pour le développement backend."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -25,14 +25,20 @@ socialLinks:
   - name: Github
     icon: "fab fa-github"
     url: "https://github.com/theofal"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/theo-f-4a3234132/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange.
 softSkills:
-  - name: Independance
+  - name: Indépendance
     percentage: 90
     color: orange
   - name: Travail d'équipe
     percentage: 90
     color: yellow
+  - name: Rigueur
+    percentage: 90
+    color: sky

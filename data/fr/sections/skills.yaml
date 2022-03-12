@@ -12,15 +12,22 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
   - name: Java
-    logo: ""
-    summary: "Compétences de developpement dans le milieu professionnel."
-    url: "https://java.com/"
+    logo: "images/skills/java.png"
+    summary: "Compétences de developpement dans le milieu professionnel.\n\n Frameworks : Maven, Tkinter"
 
   - name: Python
-    logo: ""
-    summary: "Compétences de développement."
+    logo: "images/skills/python.png"
+    summary: "Compétences de développement.\n\n Frameworks : Flask"
 
-  - name: Go Development
-    logo: ""
+  - name: Golang
+    logo: "images/skills/go.png"
     summary: "Apprentissage du langage."
     url: "https://golang.org/"
+
+  - name: Linux
+    logo: "images/skills/linux.png"
+    summary: "Utilisation quotidienne."
+
+  - name: Git
+    logo: "images/skills/git.png"
+    summary: "Utilisation quotidienne."
