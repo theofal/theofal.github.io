@@ -23,4 +23,8 @@ experiences:
         end: Juillet 2022
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Mise en place de tests automatiques via Selenium/Postman
+          - Mise en place de tests automatiques via Selenium/Postman.
+          - Planifier et effectuer des tests manuels, d'interface utilisateur, de journaux et d'API, rédiger, améliorer et maintenir des scénarios de test et analyser les résultats des tests automatisés.
+          - Proposer et développer des améliorations techniques et de performance pour nos piles de tests automatisés.
+          - Implication dans les processus d'assurance qualité inter-équipes et participation active à la communauté de pratique de l'assurance qualité.
+          - Participation à tous les rituels Agiles en place.
