@@ -38,5 +38,5 @@ projects:
   - name: Projet TAL
     role: Developer
     repo: https://github.com/theofal/ProjetTAL
-    summary: Logiciel de détection automatique de la langue d'un texte via l'analyse d'occurences des lettres.
+    summary: Logiciel de détection automatique de la langue d'un texte grâce à la similarité cosinus.
     tags: ["Python","Academic", "GoogleAPI"]
