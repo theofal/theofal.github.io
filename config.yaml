@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://theofal.github.io/'
 theme: "toha"
 
 # Languages supported
@@ -31,6 +31,7 @@ markup:
 enableEmoji: "true"
 
 params:
+  background: "images/sea1.jpg"
   # GitHub repo URL of your site
   gitRepo: ""
   # specify whether you want to show Table of Contents in reading page
