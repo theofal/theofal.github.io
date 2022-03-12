@@ -20,6 +20,8 @@ buttons:
     filter: "Java"
   - name: Python
     filter: "Python"
+  - name: GoHugo
+    filter: "GoHugo.io"
 
 # your projects
 projects:
@@ -30,13 +32,19 @@ projects:
     tags: ["Hobby", "Python", "Flask"]
 
   - name: Corewar
-    role: Developer
+    role: Owner
     repo: https://github.com/theofal/Corewar
     summary: Une implémentation du jeu "Corewar" en java.
     tags: ["Java","Academic"]
 
   - name: Projet TAL
-    role: Developer
+    role: Owner
     repo: https://github.com/theofal/ProjetTAL
     summary: Logiciel de détection automatique de la langue d'un texte grâce à la similarité cosinus.
     tags: ["Python","Academic", "GoogleAPI"]
+
+  - name: Mon site
+    role: Owner
+    repo: https://github.com/theofal/theofal.github.io
+    summary: Site internet.
+    tags: ["Hobby","GoHugo.io"]
