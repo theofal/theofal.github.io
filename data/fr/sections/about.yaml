@@ -1,0 +1,38 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: QA Automation Engineer
+# your company information
+company:
+  name: Deezer
+  url: "https://www.deezer.com"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "Après une experience dans le domaine de l'assurance, je suis en pleine reconversion professionnelle dans le domaine de l'informatique avec un attrait pour le developement backend."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/theofal"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange.
+softSkills:
+  - name: Independance
+    percentage: 90
+    color: orange
+  - name: Travail d'équipe
+    percentage: 90
+    color: yellow

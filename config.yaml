@@ -1,0 +1,39 @@
+baseURL: 'http://example.org/'
+theme: "toha"
+
+# Languages supported
+defaultContentLanguage: "fr"
+disableLanguages: "en"
+languages:
+  fr:
+    title: "Mon blog"
+    languageName: "Fr"
+    weight: 1
+    params:
+      linkedin : 'https://linkedin.com/fr/whoever'
+      navigation:
+        help: "Aide"
+  en:
+    title: "My blog"
+    languageName: "En"
+    weight: 2
+    params:
+      linkedin: 'https://linkedin.com/whoever'
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: "2"
+    endLevel: "6"
+    ordered: "false"
+
+# Enable global emoji support
+enableEmoji: "true"
+
+params:
+  # GitHub repo URL of your site
+  gitRepo: ""
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: "true"
+  newsletter:
+    enable: "false"

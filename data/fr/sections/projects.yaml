@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Academic
+    filter: "academic"
+  - name: Hobby
+    filter: "Hobby"
+  - name: Java
+    filter: "Java"
+  - name: Python
+    filter: "Python"
+
+# your projects
+projects:
+  - name: NineMonthsAgo
+    role: Owner
+    url: "https://ninemonths.herokuapp.com/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Check the news your parents were too busy to watch!
+    tags: ["Hobby", "Python", "Flask"]
+
+  - name: Corewar
+    role: Developer
+    repo: https://github.com/theofal/Corewar
+    summary: Une implémentation du jeu "Corewar" en java.
+    tags: ["Java","academic"]
+
+  - name: Projet TAL
+    role: Developer
+    repo: https://github.com/theofal/ProjetTAL
+    summary: Logiciel de détection automatique de la langue d'un texte via l'analyse d'occurences des lettres.
+    tags: ["Python","academic"]

@@ -1,0 +1,15 @@
+# some information about you
+name: "Théo F."
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "theo@example.com"
+  phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - QA automation engineer
+  - Aspirant dev backend
+  - Envie de me lancer dans l'open-source
+  - Envie d'apprendre !
