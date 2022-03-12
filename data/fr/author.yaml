@@ -2,6 +2,7 @@
 name: "Théo F."
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: ""
+image: "images/avatar/man-avatar1.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "theo@example.com"

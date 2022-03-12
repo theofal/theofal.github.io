@@ -31,7 +31,7 @@ markup:
 enableEmoji: "true"
 
 params:
-  background: "images/sea1.jpg"
+  background: "images/background/sea1.jpg"
   # GitHub repo URL of your site
   gitRepo: ""
   # specify whether you want to show Table of Contents in reading page
