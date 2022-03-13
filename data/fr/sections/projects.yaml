@@ -20,8 +20,6 @@ buttons:
     filter: "Java"
   - name: Python
     filter: "Python"
-  - name: GoHugo
-    filter: "GoHugo.io"
 
 # your projects
 projects:
@@ -42,9 +40,3 @@ projects:
     repo: https://github.com/theofal/ProjetTAL
     summary: Logiciel de détection automatique de la langue d'un texte grâce à la similarité cosinus.
     tags: ["Python","Academic", "GoogleAPI"]
-
-  - name: Mon site
-    role: Owner
-    repo: https://github.com/theofal/theofal.github.io
-    summary: Site internet.
-    tags: ["Hobby","GoHugo.io"]
