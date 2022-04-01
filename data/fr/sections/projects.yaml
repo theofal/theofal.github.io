@@ -20,9 +20,19 @@ buttons:
     filter: "Java"
   - name: Python
     filter: "Python"
+  - name: Go
+    filter: "Go"
+  - name: Selenium
+    filter: "Selenium"
 
 # your projects
 projects:
+  - name: Vacuum For Hire
+    role: Owner
+    repo: https://github.com/theofal/Vacuum-for-hire
+    summary: Scrapper de postes sur Google Jobs.
+    tags: [ "Hobby", "Go", "Selenium"]
+
   - name: NineMonthsAgo
     role: Owner
     url: "https://ninemonths.herokuapp.com/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
