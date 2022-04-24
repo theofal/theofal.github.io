@@ -21,7 +21,7 @@ skills:
 
   - name: Golang
     logo: "images/skills/go.png"
-    summary: "Apprentissage du langage."
+    summary: "Compétences de développement."
     url: "https://golang.org/"
 
   - name: Linux
