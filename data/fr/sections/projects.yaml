@@ -31,11 +31,11 @@ buttons:
 
 # your projects
 projects:
-  - - name: Chromedriver Updater
-      role: Owner
-      repo: https://github.com/theofal/Chromedriver_Updater
-      summary: verifie et update Chromedriver selon la version de Google Chrome installée.
-      tags: [ "Hobby", "Go" ]
+  - name: Chromedriver Updater
+    role: Owner
+    repo: https://github.com/theofal/Chromedriver_Updater
+    summary: verifie et update Chromedriver selon la version de Google Chrome installée.
+    tags: [ "Hobby", "Go" ]
 
   - name: Vacuum For Hire
     role: Owner
