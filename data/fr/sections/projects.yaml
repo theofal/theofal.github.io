@@ -24,9 +24,19 @@ buttons:
     filter: "Go"
   - name: Selenium
     filter: "Selenium"
+  - name: Typescript
+    filter: "Typescript"
+  - name: React
+    filter: "React"
 
 # your projects
 projects:
+  - - name: Chromedriver Updater
+      role: Owner
+      repo: https://github.com/theofal/Chromedriver_Updater
+      summary: verifie et update Chromedriver selon la version de Google Chrome installée.
+      tags: [ "Hobby", "Go" ]
+
   - name: Vacuum For Hire
     role: Owner
     repo: https://github.com/theofal/Vacuum-for-hire
@@ -35,9 +45,9 @@ projects:
 
   - name: NineMonthsAgo
     role: Owner
-    url: "https://ninemonths.herokuapp.com/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-    summary: Check the news your parents were too busy to watch!
-    tags: ["Hobby", "Python", "Flask"]
+    url: "https://www.ninemonthsago.net/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Check the news your parents were too busy to read!
+    tags: ["Hobby", "Typescript", "React", "Go"]
 
   - name: Corewar
     role: Owner
